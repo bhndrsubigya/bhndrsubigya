@@ -5,10 +5,10 @@
 
 ### 🛠️ What I work with
 
--JAVA
--HTML
--CSS
-
+-JAVA <br>
+-HTML <br>
+-CSS <br>
+-JavaScript
 
 
 ### 🚀 Things I've built
