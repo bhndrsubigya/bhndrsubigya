@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Subigya 👋</h1>
-<p align="center">CSIT student from Bhaktapur, Nepal 🇳🇵<br>Learning to code, exploring tech, building and breaking things.</p>
+<p align="center">CSIT student from Bhaktapur Multiple Campus, Nepal 🇳🇵<br>Learning to code, exploring tech, building and breaking things.</p>
 
 ---
 
